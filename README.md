@@ -7,6 +7,14 @@ This stored procedure is designed to automatically create database triggers for 
 - [storedprocedure.md](./storedprocedure.md)
 - [audit_log.sql](./audit_log.sql)
 - [audit_log.md](./audit_log.md)
+  - [Database Models](./models/README.md) 
+  - [Laravel Model](./models/AuditLog.php)
+  - [SQLAlchemy Model](./models/audit_log.py)
+  - [Django Model](./models/models.py)
+  - [Rails Model](./models/audit_log.rb)
+  - [Hibernate Model](./models/AuditLog.java)
+  - [Entity Framework Model](./models/AuditLog.cs)
+  - [Sequelize Model](./models/audit_log.js)
 
 ### How It Works
 
