@@ -1,4 +1,4 @@
-# Complete Stored Procedure for Automatic Trigger Creation
+# Stored Procedure for Automatic Trigger Creation
 
 ## Change Log
 - Trigger Existence Check: Before attempting to create a trigger for a table, the procedure now checks if a trigger with the same name already exists. This check is done by querying the information_schema.triggers for each trigger type (INSERT, UPDATE, DELETE).
