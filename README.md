@@ -4,7 +4,7 @@ This stored procedure is designed to automatically create database triggers for 
 ### Files in Repo
 - [README.md](./README.md)
 - [storedProcedure.sql](./storedProcedure.sql)
-- [storedprodecure.md](./storedProcedure.md)
+- [storedprocedure.md](./storedprocedure.md)
 - [audit_log.sql](./audit_log.sql)
 - [audit_log.md](./audit_log.md)
 
