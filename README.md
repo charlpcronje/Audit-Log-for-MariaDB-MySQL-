@@ -2,10 +2,11 @@
 This stored procedure is designed to automatically create database triggers for `INSERT`, `UPDATE`, and `DELETE` operations across all tables in a specified MariaDB database. These triggers log changes to an `audit_logs` table, capturing detailed information about data modifications in JSON format. The procedure ensures that each table has its corresponding triggers without duplications, making it safe to rerun whenever new tables are added.
 
 ### Files in Repo
-[storedProcedure.sql](./storedProcedure.sql)
-[storedprodecure.md](./storedProcedure.md)
-[audit_log.sql](audit_log.sql)
-[audit_log.md](audit_log.md)
+- [README.md](./README.md)
+- [storedProcedure.sql](./storedProcedure.sql)
+- [storedprodecure.md](./storedProcedure.md)
+- [audit_log.sql](./audit_log.sql)
+- [audit_log.md](./audit_log.md)
 
 ### How It Works
 
