@@ -49,7 +49,3 @@ This stored procedure is designed to automatically create database triggers for 
 
 ### Conclusion
 This automated trigger creation procedure facilitates comprehensive auditing across all database tables. It is ideal for maintaining a detailed change log, aiding in debugging, monitoring, and compliance with regulatory requirements.
-
----
-
-This `README.md` provides a complete guide to deploying and understanding the stored procedure, ensuring users can implement and potentially modify the procedure according to specific needs. If you have additional requirements or questions about this documentation, please let me know!
